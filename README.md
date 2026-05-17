@@ -251,6 +251,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Scaling DevTools](https://podcast.bitreach.io/)
 - [Marketing Jobs in OSS Startups](https://www.ossjobs.dev/?category=Marketing)
 - [Marketing Jobs in Dev Tooling Companies](https://devtooljobs.com/marketing)
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based utilities useful for dev marketers: SEO meta tag generator, OG image generator with live preview, favicon generator, color palette generator, AI Robots.txt generator (GPTBot/ClaudeBot/PerplexityBot), and AI Content Disclosure generator. No signup, no tracking, fully client-side, open source.
 
 
 # Influencers and Educators
